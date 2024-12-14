@@ -1,0 +1,9 @@
+if [ 58 -gt 56 ];then
+    echo "Positive"
+else
+    echo "Non-positive"
+fi
+
+for i in 1 2 3;do
+   echo "Value:$i"
+done
